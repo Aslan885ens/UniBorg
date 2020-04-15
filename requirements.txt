@@ -1,2 +1,2 @@
--U https://github.com/LonamiWebs/Telethon/archive/master.zip
+https://github.com/LonamiWebs/Telethon/archive/master.zip
 -r ./requirements-stdborg.txt
